@@ -13,7 +13,7 @@ A simple, clean, and responsive Task Management System built using **React.js**,
 ## 📸 Preview
 
 ![Task Manager UI part1](./Front-end/src/assets/task-screenshot.png)
----
+
 
 ![Task Manager UI part2](./Front-end/src/assets/task-screenshot2.png)
 
